@@ -37,12 +37,10 @@ msec_counter: .res 1
 	ply
 	plx
 	pla
-	plp
 	rti
 .endmacro
 
 .proc irq
-	php
 	pha
 	phx
 	phy
